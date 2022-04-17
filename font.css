@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Ngayogyan Old';
+  src: url('Ngayogyan Old.eot');
+  src: url('Ngayogyan Old.eot?#iefix') format('embedded-opentype'),
+       url('Ngayogyan Old.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'nykNgayogyanOld';
+  src: url('nykNgayogyanOld.svg#nykNgayogyanOld') format('svg'),
+       url('nykNgayogyanOld.ttf') format('truetype'),
+       url('nykNgayogyanOld.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
